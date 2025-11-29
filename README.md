@@ -19,3 +19,5 @@ scikit-learn
 pandas
 matplotlib
 seaborn
+
+<img width="1458" height="934" alt="image" src="https://github.com/user-attachments/assets/26e7fb96-c3f0-40a1-b987-c983004b068d" />
